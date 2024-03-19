@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,wordpress,php,mysql,html,css,sass,js,jquery,git,github,ps,ai,gmail,linkedin,instagram,fb,facebook" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,wordpress,php,mysql,html,css,sass,js,jquery,git,github,ps,ai,gmail" />
   </a>
 </p>
