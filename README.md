@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&background=4607FF00&random=false&width=435&lines=Hello%2C;I'm+Alamin+Ahmed+Abrar;A+full+stuck+web+developer;WordPress+web+Designer;And+Elementor+Expert)](https://git.io/typing-svg)
 <!--
 **alamin-ahmed-abrar/alamin-ahmed-abrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
